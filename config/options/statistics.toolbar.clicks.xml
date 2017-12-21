@@ -1,0 +1,51 @@
+<application>
+  <component name="ToolbarClicksCollector">
+    <counts>
+      <entry action="ChangesView.Refresh@ChangesViewToolbar" count="8" />
+      <entry action="ChangesView.Revert@MainToolbar" count="3" />
+      <entry action="CheckinProject@MainToolbar" count="6" />
+      <entry action="Compare.SameVersion@MainToolbar" count="9" />
+      <entry action="CompileDirty@MainToolbar" count="3" />
+      <entry action="DatabaseView.AddActionGroupPopup@ProjectViewToolbar" count="3" />
+      <entry action="DatabaseView.SynchronizeAction@ProjectViewToolbar" count="2" />
+      <entry action="FileChooser.GotoHome@FileChooserDialog" count="1" />
+      <entry action="Git.Log.DeepCompare@Vcs.Log.Toolbar" count="9" />
+      <entry action="JRebel Debug@MainToolbar" count="8" />
+      <entry action="Maven.Reimport@Maven Navigator Toolbar" count="1" />
+      <entry action="ShowProjectStructureSettings@MainToolbar" count="2" />
+      <entry action="ShowSettings@MainToolbar" count="2" />
+      <entry action="Stop@DebuggerToolbar" count="2" />
+      <entry action="Stop@MainToolbar" count="8" />
+      <entry action="Synchronize@MainToolbar" count="1" />
+      <entry action="Vcs.CherryPick@Vcs.Log.Toolbar" count="1" />
+      <entry action="Vcs.Log.GoToRef@Vcs.Log.Toolbar" count="1" />
+      <entry action="Vcs.Log.QuickTextFilterSettings@Vcs.Log.Toolbar" count="1" />
+      <entry action="Vcs.Log.Refresh@Vcs.Log.Toolbar" count="1" />
+      <entry action="Vcs.Log.ShowLongEdges@Vcs.Log.Toolbar" count="2" />
+      <entry action="Vcs.ShowTabbedFileHistory@MainToolbar" count="1" />
+      <entry action="Vcs.UpdateProject@MainToolbar" count="8" />
+      <entry action="com.intellij.codeInsight.documentation.DocumentationComponent$MyShowSettingsAction@JavadocInplaceSettings" count="2" />
+      <entry action="com.intellij.execution.impl.ConsoleViewImpl$ClearAllAction@RunnerToolbar" count="12" />
+      <entry action="com.intellij.execution.impl.ConsoleViewImpl$ClearAllAction@unknown" count="1" />
+      <entry action="com.intellij.find.editorHeaderActions.NextOccurrenceAction@EditorToolbar" count="4" />
+      <entry action="com.intellij.find.editorHeaderActions.PrevOccurrenceAction@EditorToolbar" count="10" />
+      <entry action="com.intellij.find.impl.FindPopupPanel$MySelectScopeToggleAction@EditorToolbar" count="4" />
+      <entry action="com.intellij.ide.actions.ExportToTextFileToolbarAction@TypeHierarchyViewToolbar" count="1" />
+      <entry action="com.intellij.ide.errorTreeView.NewErrorTreeViewPanel$5@CompilerMessagesToolbar" count="1" />
+      <entry action="com.intellij.ide.favoritesTreeView.actions.DeleteFromFavoritesAction@ToolbarDecorator" count="3" />
+      <entry action="com.intellij.ide.hierarchy.HierarchyBrowserBaseEx$AlphaSortAction@TypeHierarchyViewToolbar" count="6" />
+      <entry action="com.intellij.ide.hierarchy.HierarchyBrowserBaseEx$RefreshAction@TypeHierarchyViewToolbar" count="3" />
+      <entry action="com.intellij.ide.hierarchy.ViewClassHierarchyAction@TypeHierarchyViewToolbar" count="1" />
+      <entry action="com.intellij.ide.hierarchy.ViewSubtypesHierarchyAction@TypeHierarchyViewToolbar" count="8" />
+      <entry action="com.intellij.ide.hierarchy.ViewSupertypesHierarchyAction@TypeHierarchyViewToolbar" count="12" />
+      <entry action="com.intellij.ide.structureView.newStructureView.TreeActionWrapper@StructureViewToolbar" count="16" />
+      <entry action="com.intellij.openapi.editor.actions.ScrollToTheEndToolbarAction@RunnerToolbar" count="5" />
+      <entry action="com.intellij.ui.AnActionButton$AnActionButtonWrapper@ToolbarDecorator" count="4" />
+      <entry action="com.intellij.ui.AutoScrollToSourceHandler$AutoscrollToSourceAction@StructureViewToolbar" count="1" />
+      <entry action="com.intellij.ui.CommonActionsPanel$MyActionButton@ToolbarDecorator" count="10" />
+      <entry action="com.intellij.ui.treeStructure.actions.CollapseAllAction@StructureViewToolbar" count="2" />
+      <entry action="com.intellij.ui.treeStructure.actions.ExpandAllAction@StructureViewToolbar" count="1" />
+      <entry action="org.intellij.images.editor.actions.SetBackgroundImageDialog$1A@unknown" count="15" />
+    </counts>
+  </component>
+</application>

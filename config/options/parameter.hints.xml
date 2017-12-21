@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="com.alibaba.fastjson.JSONObject.getJSONArray(key)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>

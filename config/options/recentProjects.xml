@@ -1,0 +1,434 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="E:/各种demo/resourses" />
+        <option value="E:/各种demo/SpringDemo" />
+        <option value="E:/各种demo/ssm_crud/ssm_crud" />
+        <option value="E:/各种demo/SpringMVC-Mybatis-Shiro-redis-0.2" />
+        <option value="E:/Bank7.2code/JXX" />
+        <option value="E:/Bank7.2code/BankPS/Bank" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="E:/各种demo/SpringDemo" />
+        <option value="E:/各种demo/resourses" />
+      </list>
+    </option>
+    <option name="lastPath" value="E:/各种demo/resourses" />
+    <option name="pid" value="1096" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="D:/BackUp/Desktop">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.3780.95" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1504065528524" />
+              <option name="buildTimestamp" value="1490015516859" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/BackUp/Desktop/aaaa">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.3780.95" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1505715582862" />
+              <option name="buildTimestamp" value="1490015465214" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/BackUp/Desktop/demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.3780.95" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1506762826955" />
+              <option name="buildTimestamp" value="1490015511029" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/BackUp/Desktop/dome">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.3780.95" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1506762734155" />
+              <option name="buildTimestamp" value="1490015511029" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/BackUp/Desktop/springMVC">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.3780.95" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1504058247849" />
+              <option name="buildTimestamp" value="1490015516859" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/BackUp/Desktop/国泰安商业银行立体教学平台软件 V7.0.1/code/JXX">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.3780.95" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1500252826233" />
+              <option name="buildTimestamp" value="1490015463914" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/BackUp/Desktop/国泰安商业银行立体教学平台软件 V7.1.1/code/JXX">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.3780.95" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1503967694480" />
+              <option name="buildTimestamp" value="1490015499597" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/BackUp/Desktop/课件&amp;源码/ssm-crud">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.3780.95" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1505797894166" />
+              <option name="buildTimestamp" value="1490015498540" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/guns">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.3780.95" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1504061738381" />
+              <option name="buildTimestamp" value="1490015516859" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/iBase4J">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.3780.95" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1504058737722" />
+              <option name="buildTimestamp" value="1490015516859" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E://Java8Demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.3780.95" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1504845321136" />
+              <option name="buildTimestamp" value="1490015466068" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E://SpringBoot-MyBatis">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.3780.95" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1504755776080" />
+              <option name="buildTimestamp" value="1490015492758" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E://spring-data-jpa">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.3780.95" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1502960431767" />
+              <option name="buildTimestamp" value="1490015474418" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E://springdatajpa">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.3780.95" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1502934920810" />
+              <option name="buildTimestamp" value="1490015474418" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E://ssm_crud">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.3780.95" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1505790382449" />
+              <option name="buildTimestamp" value="1490015498540" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/Bank7.2code/BankPS/Bank">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.3942.27" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1513565953290" />
+              <option name="buildTimestamp" value="1512983499566" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/Bank7.2code/JXX">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.3942.27" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1513581667228" />
+              <option name="buildTimestamp" value="1512983499566" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/HelloWorld">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-143.2370" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/IDEA/IntelliJ IDEA 15.0.6/IntelliJ IDEA 15.0.6/bin" />
+              <option name="projectOpenTimestamp" value="1481858412502" />
+              <option name="buildTimestamp" value="1461772800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/Java8Demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.3780.95" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1504832944951" />
+              <option name="buildTimestamp" value="1490015463665" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/ShiroDemo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.3780.95" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1499656782319" />
+              <option name="buildTimestamp" value="1490015518523" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/SpringBootDemo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.3780.95" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1505287276170" />
+              <option name="buildTimestamp" value="1490015519820" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/SpringBootMyBatis">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.3780.95" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1504070160309" />
+              <option name="buildTimestamp" value="1490015475187" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/SpringDemo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.3780.95" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1502675368055" />
+              <option name="buildTimestamp" value="1490015517688" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/SpringDemo/SpringDemo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.3780.95" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1505806873775" />
+              <option name="buildTimestamp" value="1490015498540" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/demo-springmvc-shiro-master">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.3780.95" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1499388095199" />
+              <option name="buildTimestamp" value="1490015462911" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/girl/girl">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.3780.95" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1502760524185" />
+              <option name="buildTimestamp" value="1490015500726" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/iBase4J">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.3780.95" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1500342426561" />
+              <option name="buildTimestamp" value="1490015510612" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/spring-data-jpa">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.3780.95" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1503018351266" />
+              <option name="buildTimestamp" value="1490015477652" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/spring-shiro-training">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.3780.95" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1499658551344" />
+              <option name="buildTimestamp" value="1490015518523" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/ssm_crud">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.3780.95" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1506763126274" />
+              <option name="buildTimestamp" value="1490015511029" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/ssm_crud/ssm_crud">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.3780.95" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1505790438441" />
+              <option name="buildTimestamp" value="1490015498540" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/ssmcrud">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.3780.95" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1505705422863" />
+              <option name="buildTimestamp" value="1490015465214" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/各种demo/SpringDemo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.3942.27" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1513820328392" />
+              <option name="buildTimestamp" value="1512983514638" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/各种demo/SpringMVC-Mybatis-Shiro-redis-0.2">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.3942.27" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1513747201237" />
+              <option name="buildTimestamp" value="1512983510607" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/各种demo/resourses">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.3942.27" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1513820328392" />
+              <option name="buildTimestamp" value="1512983514638" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/各种demo/ssm_crud/ssm_crud">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.3942.27" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1513762398479" />
+              <option name="buildTimestamp" value="1512983510607" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/项目/国泰安商业银行立体教学平台软件 V7.1.1/code/JXX">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.3780.95" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1506562562493" />
+              <option name="buildTimestamp" value="1490015498142" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="E:/各种demo" />
+  </component>
+</application>

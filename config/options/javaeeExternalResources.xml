@@ -1,0 +1,11 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://cocoon.apache.org/schema/avalon" location="D:/IDEA/system/extResources/323b6aae_cocoon-avalon-1.0.xsd" />
+    <resource url="http://cocoon.apache.org/schema/configurator" location="D:/IDEA/system/extResources/70c0441d_cocoon-configurator-1.0.1.xsd" />
+    <resource url="http://ibatis.apache.org/dtd/ibatis-3-config.dtd" location="D:/IDEA/system/extResources/d86d6899_ibatis-3-config.dtd" />
+    <resource url="http://www.springframework.org/schema/beans/spring-beans-2.0.xsd" location="D:/IDEA/system/extResources/6e49288e_spring-beans-2.0.xsd" />
+    <resource url="http://www.springframework.org/schema/tool/spring-tool-2.0.xsd" location="D:/IDEA/system/extResources/2a73ae60_spring-tool-2.0.xsd" />
+    <resource url="http://www.springframework.org/schema/util" location="D:/IDEA/system/extResources/a8bb5834_spring-util-2.0.xsd" />
+    <ignored-resource url="http://ehcache.org/ehcache.xsd" />
+  </component>
+</application>

@@ -1,0 +1,43 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="localWholeWordsOnly" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <recentFileMasks>
+      <mask>*.js,</mask>
+      <mask>*.js,*</mask>
+      <mask>*.js,*.</mask>
+      <mask>*.js,*.j</mask>
+      <mask>*.js,*.js</mask>
+      <mask>*.a</mask>
+      <mask>*.ava</mask>
+      <mask>*.JA</mask>
+      <mask>*.cas</mask>
+      <mask>*.ca</mask>
+      <mask>``</mask>
+      <mask>`</mask>
+      <mask>*。</mask>
+      <mask>*</mask>
+      <mask>*.C</mask>
+      <mask>*.CS</mask>
+      <mask>*.CSS</mask>
+      <mask>*.x</mask>
+      <mask>*.xml</mask>
+      <mask>*.</mask>
+      <mask>*.js</mask>
+      <mask>*.js,*.jsp</mask>
+      <mask>*.c</mask>
+      <mask>*.cs</mask>
+      <mask>*.css</mask>
+      <mask>*.ja</mask>
+      <mask>*.j</mask>
+      <mask>*.jsp</mask>
+      <mask>*.jav</mask>
+      <mask>*.java</mask>
+    </recentFileMasks>
+  </component>
+</application>

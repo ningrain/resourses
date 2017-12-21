@@ -1,0 +1,1 @@
+SELECT * from TIFCAS WHERE CASE_ID = 2

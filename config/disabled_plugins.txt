@@ -1,0 +1,6 @@
+CloudBees
+CloudFoundry
+Heroku
+OpenShift
+com.intellij.uiDesigner
+org.jetbrains.android

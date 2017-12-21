@@ -1,0 +1,86 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlDoctype.MigrateToHtml5" value="true" />
+    <property name="DefaultHtmlDoctype.Refreshed" value="2" />
+    <property name="evlsprt3.15" value="11" />
+    <property name="installed.kotlin.plugin.version" value="1.2.0-release-IJ2017.3-1" />
+    <property name="KEYMAP" value="edit line&#10;line&#10;mc&#10;import&#10;comment" />
+    <property name="project.wizard.group" value="org.jetbrains.idea.maven.wizards.MavenModuleBuilder" />
+    <property name="project.wizard.template" value="Maven" />
+    <property name="file.chooser.recent.files" value="D:/BackUp/Desktop/ppin.jar&#10;D:/apache-maven-3.3.9/conf/settingsper.xml&#10;D:/BackUp/.m2/repository&#10;E:/各种demo/SpringDemo/.idea&#10;D:/BackUp/Desktop/timg.jpg&#10;E:/图片/《闹钟》（ALARM）1280P全套无水印高清壁纸/SC06C06.jpg&#10;D:/BackUp/.m2/settingsper.xml&#10;E:/图片/收藏/wallpaper.jpg&#10;E:/各种demo/ssm_crud/ssm_crud/ssm_crud.iml&#10;E:/各种demo/ssm_crud/ssm_crud/.idea&#10;E:/各种demo/ssm_crud/ssm_crud/src/main/webapp&#10;E:/各种demo/ssm_crud/ssm_crud/src/main/webapp/WEB-INF/web.xml&#10;E:/各种demo/ssm_crud/ssm_crud/target&#10;D:/apache-maven-3.3.9/conf/settingswork.xml&#10;E:/Bank7.2code/JXX/WebRoot&#10;E:/Bank7.2code/JXX/WebRoot/WEB-INF/lib&#10;D:/apache-tomcat-8.0.37&#10;E:/Bank7.2code/JXX&#10;E:/各种demo&#10;D:/apache-maven-3.3.9/conf/settings.xml&#10;E:/Bank7.2code/war&#10;D:/BackUp/Desktop&#10;E:/Bank7.2code/BankPS/bankps/WebRoot&#10;E:/Bank7.2code/BankPS/bankps/WebRoot/WEB-INF/web.xml&#10;E:/Bank7.2code/BankPS/bankps/WebRoot/WEB-INF/lib&#10;E:/Bank7.2code/BankPS/bankps&#10;E:/Bank7.2code/JXX/WebRoot/WEB-INF/web.xml&#10;E:/Bank7.2code/BankPS/Bank/WebRoot&#10;E:/Bank7.2code/BankPS/Bank/WebRoot/WEB-INF/web.xml&#10;E:/Bank7.2code/BankPS/Bank/WebRoot/WEB-INF/lib" />
+    <property name="toolwindow.stripes.buttons.info.shown" value="true" />
+    <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="true" />
+    <property name="lastTip" value="1" />
+    <property name="selected.color.option.type" value="DIFF_INSERTED" />
+    <property name="ColorChooser.RecentColors" value="255-255-255-255,,,57-118-214-255" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.7" />
+    <property name="file.gist.reindex.count" value="43776" />
+    <property name="Default.savedEditorTheme" value="_@user_Default" />
+    <property name="ProjectStructure.TopLevelElements" value="0.12871288" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Dependencies" />
+    <property name="PLUGIN_FILTER" value="ema&#10;ec&#10;mybatis&#10;free mybatis&#10;fre" />
+    <property name="settings.code.style.selected.tab.JAVA" value="Wrapping and Braces" />
+    <property name="export.settings.path" value="E:\idea配置\settings.jar" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="JUnitSupport.hidePassedTests" value="false" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="find.popup.splitter" value="0.5786885" />
+    <property name="Copy.OpenInEditor" value="false" />
+    <property name="FileTemplates.SelectedTemplate" value="Class" />
+    <property name="search.everywhere.max.popup.width" value="683" />
+    <property name="kotlin.lastUpdateCheck" value="1499155378272" />
+    <property name="fileTypeChangedCounter" value="3" />
+    <property name="typescript.show.auto.import" value="true" />
+    <property name="com.intellij.diagnostic.IdeErrorsDialogactiveTab" value="0" />
+    <property name="MavenModuleWizard.inheritGroupId" value="true" />
+    <property name="MavenModuleWizard.inheritVersion" value="true" />
+    <property name="SplitFileEditor.Proportion" value="0.23717949" />
+    <property name="Darcula.savedEditorTheme" value="_@user_Darcula" />
+    <property name="SpringBeansModulesPanel[0]" value="0.14684288" />
+    <property name="last.imported.location" value="E:/Bank7.2code/JXX" />
+    <property name="create.project.preferred.importer" value="Existing Sources" />
+    <property name="eclipse.project.dir" value="E:\Bank7.2code\JXX" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.6829653" />
+    <property name="CommitChangeListDialog.SPLITTER_PROPORTION_2" value="0.7912371" />
+    <property name="DBE.Default.Dialect" value="MySQL" />
+    <property name="FileStructurePopup.narrowDown" value="true" />
+    <property name="FrameworksFinderRecursivePanel[0]" value="0.14695077" />
+    <property name="FrameworksFinderRecursivePanel[1]" value="0.1724138" />
+    <property name="FrameworksFinderRecursivePanel[2]" value="0.20855057" />
+    <property name="FrameworksFinderRecursivePanel[3]" value="0.26385224" />
+    <property name="vcs.history.splitter.proportion" value="0.47411445" />
+    <property name="vcs.history.details.splitter.proportion" value="0.459281" />
+    <property name="COMMITTED_CHANGES_FILTER_HISTORY" value="" />
+    <property name="spring.initializr.service.url.history" value="" />
+    <property name="spring.initializr.service.url.last" value="https://start.spring.io" />
+    <property name="CommittedChanges.SplitterProportions.0" value="452" />
+    <property name="CommittedChanges.SplitterProportions.1" value="342" />
+    <property name="JUnit.Splitter.Proportion" value="0.21258634" />
+    <property name="MoveClassWithTarget.OpenInEditor" value="false" />
+    <property name="dir.diff.panel.divider.location" value="172" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="227" />
+    <property name="com.intellij.openapi.vcs.actions.ShowMessageHistoryAction$1.splitter" value="0.7854406" />
+    <property name="eclipse.remote.project.storage" value="E:\Bank7.2code\JXX" />
+    <property name="RunConfigurable.dividerProportion" value="0.28733623" />
+    <property name="disable.forced.soft.wraps.notification" value="true" />
+    <property name="MoveFile.OpenInEditor" value="true" />
+    <property name="ChangesViewManager.DETAILS_SPLITTER_PROPORTION" value="0.39009753" />
+    <property name="MemberChooser.sorted" value="true" />
+    <property name="JUnitSupport.hideIgnoredTests" value="false" />
+    <property name="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0" value="300" />
+    <property name="RESTClient.httpMethod" value="GET&#10;POST&#10;PUT&#10;PATCH&#10;DELETE&#10;HEAD&#10;OPTIONS" />
+    <property name="SqlStructureView.filterD.file.structure.state" value="true" />
+    <property name="JavaeeViewModulesPanel[0]" value="0.14695077" />
+    <property name="ts.lib.d.ts.version" value="2.6.1" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="org.intellij.images.editor.actions.SetBackgroundImageDialog#recent" value="E:\图片\《闹钟》（ALARM）1280P全套无水印高清壁纸\SC06C06.jpg&#10;D:\BackUp\Desktop\timg.jpg&#10;E:\图片\壁纸\V字仇杀队\1417743960466.jpg" />
+    <property name="SearchEveryWhereHistory" value="agree*contrllor" />
+    <property name="idea.background.editor" value="E:\图片\壁纸\V字仇杀队\1417743960466.jpg,6,scale,center" />
+    <property name="idea.background.frame" value="E:\图片\壁纸\V字仇杀队\1417743960466.jpg,15,scale,center" />
+    <property name="quick.doc.font.size" value="SMALL" />
+    <property name="plugins.preselection.path" value="D:/BackUp/Desktop" />
+    <property name="Vcs.Push.Splitter.Proportion" value="0.52910054" />
+  </component>
+</application>
